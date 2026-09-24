@@ -1,0 +1,6 @@
+# Basket routes are owned by the storefront feature team.
+/routes/basket.ts @derek-flipfeedback
+/routes/basketItems.ts @derek-flipfeedback
+
+# Repository configuration and CI.
+/CODEOWNERS @pria-flipfeedback
